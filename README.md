@@ -34,31 +34,29 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 <!-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.JS-333333?style=flat&logo=nextdotjs&logoColor=white)
 -->
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 <!-- ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white) -->
-![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 
 **BackEnd**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) 
-<!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white) -->
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-569A31?style=flat&logo=spring-boot&logoColor=white) 
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F.svg?&logo=spring-data-JPA)
 ![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F.svg?&logo=spring-batch)
 ![MyBatis](https://img.shields.io/badge/MyBatis-FE6602.svg?&logo=mybatis5&logoColor=white)
-
 ![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F.svg?&logo=spring-webflux&logoColor=white)
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white) -->
 
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) -->
 ![Amazon_S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white) 
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) -->
 
 **DevOps**
 <!--
@@ -66,7 +64,6 @@
 ![Amazon Route 53](https://img.shields.io/badge/Amazon_Route_53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white) 
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white) -->
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) 
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&logo=kubernetes&logoColor=white)
 
