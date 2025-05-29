@@ -1,8 +1,5 @@
 # About Me
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sezeme&theme=tokyonight)" />
-</a> 
 
 ---
 
@@ -101,3 +98,9 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stella223)](https://solved.ac/stella223)
+
+**GitHub Stat**
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sezeme&theme=swift)" />
+</a> 
