@@ -89,8 +89,7 @@
 
 **📗Solved.ac Tier📗**
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stella223)](https://solved.ac/stella223)
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/stella223" width="600" height="300"/></a>
 
 **GitHub Stat**
 
