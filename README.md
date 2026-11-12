@@ -84,15 +84,3 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 
-
----
-
-**📗Solved.ac Tier📗**
-
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/stella223" width="600" height="300"/></a>
-
-**GitHub Stat**
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sezeme&show_icons=true&theme=swift)" />
-</a> 
